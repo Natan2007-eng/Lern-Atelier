@@ -19,7 +19,7 @@
 3.Ich bin gut voran gekommen,somit kann ich immer so arbeiten.
 
 # Lern-Atelier
-## Ziele .09.20247
+## Ziele 6.09.20247
 
 1.Modul 1715 fertig machen
 2.Programmieren üben
@@ -31,7 +31,7 @@
 
 
 # Lern-atelier
-## Ziele 30.6.2024
+## Ziele 30.8.2024
 
 1.Modul 319 besser verstehen.
 
@@ -44,3 +44,14 @@
 2.Ich konnte es teilweise selber umsetzen.
 
 3.Ich habe die Fragen die mich drücken gestellt.
+
+# Lern-atelier
+# Ziele 13.9.2024
+
+1. Modul 431 1724 machen
+2. Notenrechner verstehen
+3. Offene Fragen klären
+
+1. Nicht ganz muss konzentrieren
+2. Habe es verstanden
+3. Habe es geklärt

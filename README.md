@@ -56,6 +56,16 @@
 2. Habe es verstanden
 3. Habe es geklärt
 
+   # Lern-Atelier
+   # Ziele 20.9.2024
+   1. Funktionen besser versestehen
+   2. Modul 431 2726 fertig machen
+   3. Offene Fragen kläre
+  
+   1. Ich habe es besser verstanden als vorher.
+   2. Habe es fertig gemacht.
+   3. Habe meine Fragen geklärt.
+
 # Lern-Atelier
 # Ziele 13.9.2024
 

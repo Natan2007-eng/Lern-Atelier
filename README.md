@@ -66,9 +66,3 @@
    2. Habe es fertig gemacht.
    3. Habe meine Fragen geklärt.
 
-# Lern-Atelier
-# Ziele 13.9.2024
-
-1. Einmal mindestens programmieren.
-2. Modul 431 2726 fertig machen und auch noch vielleicht auch noch 2728 machen.
-3. Offene Fragen klären.

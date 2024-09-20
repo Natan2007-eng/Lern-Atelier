@@ -1,14 +1,4 @@
 # Lern-Atelier
-## Ziele 23.08.2024
-1. Ich will Visual Studio einrichten.
-2. Ich nöchte die Pup Uhr verstehen.
-3. Ich möchte im Modul 431 bis zum 1705 kommen.
-
-1.Ich habe es eingerichtet.
-2.Ich habe es gut verstanden aber ich sollte mehr frage.
-3.Ich bin gut voran gekommen,somit kann ich immer so arbeiten.
-
-# Lern-Atelier
 ## Ziele 16.08.2024
 1. Ich will Visual Studio einrichten.
 2. Ich nöchte die Pup Uhr verstehen.
@@ -19,16 +9,14 @@
 3.Ich bin gut voran gekommen,somit kann ich immer so arbeiten.
 
 # Lern-Atelier
-## Ziele 6.09.20247
+## Ziele 23.08.2024
+1. Ich will Visual Studio einrichten.
+2. Ich nöchte die Pup Uhr verstehen.
+3. Ich möchte im Modul 431 bis zum 1705 kommen.
 
-1.Modul 1715 fertig machen
-2.Programmieren üben
-3.Offene Fragen kären
-
-1.Modul fertig gemacht 
-2.Habe einbisschen geübt könnte mehr sein aber wir hatten zu wenig zeit
-3.Habe die fragen geklärt
-
+1.Ich habe es eingerichtet.
+2.Ich habe es gut verstanden aber ich sollte mehr frage.
+3.Ich bin gut voran gekommen,somit kann ich immer so arbeiten.
 
 # Lern-atelier
 ## Ziele 30.8.2024
@@ -45,6 +33,18 @@
 
 3.Ich habe die Fragen die mich drücken gestellt.
 
+
+# Lern-Atelier
+## Ziele 6.09.20247
+
+1.Modul 1715 fertig machen
+2.Programmieren üben
+3.Offene Fragen kären
+
+1.Modul fertig gemacht 
+2.Habe einbisschen geübt könnte mehr sein aber wir hatten zu wenig zeit
+3.Habe die fragen geklärt
+
 # Lern-atelier
 # Ziele 13.9.2024
 
@@ -55,3 +55,10 @@
 1. Nicht ganz muss konzentrieren
 2. Habe es verstanden
 3. Habe es geklärt
+
+# Lern-Atelier
+# Ziele 13.9.2024
+
+1. Einmal mindestens programmieren.
+2. Modul 431 2726 fertig machen und auch noch vielleicht auch noch 2728 machen.
+3. Offene Fragen klären.

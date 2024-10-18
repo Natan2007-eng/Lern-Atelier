@@ -7,7 +7,9 @@
    Reflexion
 
    1.Habe alles in Github in Ordnung gebracht und hoffe es ist jetzt.
+
    2.Habe etwas geübt ,aber könnte nächstes mal intensiver arbeiten.
+
    3.Hatte nicht so viele Fragen heute zum stellen. 
  
    # Lern-Atelier

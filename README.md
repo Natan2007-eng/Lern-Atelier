@@ -41,7 +41,9 @@
 ## Ziele 6.09.20247
 
 1.Modul 1715 fertig machen
+
 2.Programmieren üben
+
 3.Offene Fragen kären
 
 Reflexion
@@ -79,7 +81,9 @@ Reflexion
 Reflexion
 
 1.Ich habe es eingerichtet.
+
 2.Ich habe es gut verstanden aber ich sollte mehr frage.
+
 3.Ich bin gut voran gekommen,somit kann ich immer so arbeiten.
   
 # Lern-Atelier
@@ -91,5 +95,7 @@ Reflexion
 Reflexion
 
 1.Ich habe es eingerichtet.
+
 2.Ich habe es gut verstanden aber ich sollte mehr frage.
+
 3.Ich bin gut voran gekommen,somit kann ich immer so arbeiten.

@@ -30,7 +30,8 @@
 1. Modul 431 1724 machen
 2. Notenrechner verstehen
 3. Offene Fragen klären
-
+   Reflexion
+   
 1. Nicht ganz muss konzentrieren
 2. Habe es verstanden
 3. Habe es geklärt

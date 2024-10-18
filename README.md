@@ -17,6 +17,8 @@
    1. Funktionen besser versestehen
    2. Modul 431 2726 fertig machen
    3. Offene Fragen kläre
+
+  Reflexion
   
    1. Ich habe es besser verstanden als vorher.
    2. Habe es fertig gemacht.

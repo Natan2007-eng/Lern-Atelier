@@ -43,8 +43,12 @@
 2.Programmieren üben
 3.Offene Fragen kären
 
+Reflexion
+
 1.Modul fertig gemacht 
+
 2.Habe einbisschen geübt könnte mehr sein aber wir hatten zu wenig zeit
+
 3.Habe die fragen geklärt
 
 # Lern-atelier
@@ -55,6 +59,8 @@
 2.Modul 319 umsetzen können.
 
 3.Offene Fragen klären.
+
+Reflexion
 
 1.Ich habe es besser verstanden als vorher
 
@@ -69,6 +75,8 @@
 2. Ich nöchte die Pup Uhr verstehen.
 3. Ich möchte im Modul 431 bis zum 1705 kommen.
 
+Reflexion
+
 1.Ich habe es eingerichtet.
 2.Ich habe es gut verstanden aber ich sollte mehr frage.
 3.Ich bin gut voran gekommen,somit kann ich immer so arbeiten.
@@ -78,6 +86,8 @@
 1. Ich will Visual Studio einrichten.
 2. Ich nöchte die Pup Uhr verstehen.
 3. Ich möchte im Modul 431 bis zum 1705 kommen.
+
+Reflexion
 
 1.Ich habe es eingerichtet.
 2.Ich habe es gut verstanden aber ich sollte mehr frage.

@@ -1,4 +1,23 @@
 # Lern-Atelier
+# Ziele 25.10.2024
+1. Modul 319 üben
+2. fragen stellen zum 319
+3. Modul 319 besser verstanden haben
+
+   Reflexion
+
+
+
+
+
+
+
+
+
+
+
+
+# Lern-Atelier
 # Ziele 18.10.2024
 1. Github in Ordnung bringen.
 2. Programmieren üben.

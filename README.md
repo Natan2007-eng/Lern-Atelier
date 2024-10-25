@@ -5,17 +5,9 @@
 3. Modul 319 besser verstanden haben
 
    Reflexion
-
-
-
-
-
-
-
-
-
-
-
+1. Habe geübt und bin gut voran gekommen.
+2. Hatte nicht so viele Fragen heute.
+3. Bin weiter gekommen und verstehe es besser.
 
 # Lern-Atelier
 # Ziele 18.10.2024

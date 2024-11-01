@@ -1,7 +1,9 @@
 # Lern-Atelier
 # Ziele 1.11.2024
 1.319 üben
+
 2.162 fehlende aufgaben machen.
+
 3.Offene Fragen klären.
 
    Reflexion

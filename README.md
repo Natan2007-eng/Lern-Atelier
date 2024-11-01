@@ -8,6 +8,10 @@
 
    Reflexion
 
+1. 319 gelernt ,aber nicht so effizient, muss disziplinierter werden.
+2. Habe nichts gemacht.
+3. Habe alles geklärt.
+
 
 # Lern-Atelier
 # Ziele 25.10.2024

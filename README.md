@@ -5,6 +5,11 @@
 3. Programmierübungen von chatgpt machen.
 
    Reflexion
+
+1. Habe ich gemacht und verstehe es auch jz.
+2. Haben uns informiert.
+3. Habe 2-mal programmiert.
+   
 # Lern-Atelier
 # Ziele 1.11.2024
 1.319 üben

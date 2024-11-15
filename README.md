@@ -2,7 +2,7 @@
 # Ziele 15.11.2024
 1. Pap für unser Projekt machen.
 2. Modul 162 6953 machen.
-3. offene Fragen klären.
+3. Modul 162 6943 machen.
 
       Reflexion
 1.

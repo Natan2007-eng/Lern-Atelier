@@ -5,13 +5,15 @@
 3. Modul 162 6943 machen.
 
       Reflexion
-1.
+1. Pap fertig gemacht.
+2. Fertig gemacht
+3. Fertig gemacht
+
 # Lernatelier
 # Ziele 8.11.2024
 1. Modul 162 die aufgabe 1741 mit Frau Rieder besprechen.
 2. Programmier Projekt informieren mit der Gruppe.
 3. Programmierübungen von chatgpt machen.
-
    Reflexion
 
 1. Habe ich gemacht und verstehe es auch jz.

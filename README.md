@@ -1,4 +1,12 @@
 # Lernatelier
+# Ziele 15.11.2024
+1. Pap für unser Projekt machen.
+2. Modul 162 6953 machen.
+3. offene Fragen klären.
+
+      Reflexion
+1.
+# Lernatelier
 # Ziele 8.11.2024
 1. Modul 162 die aufgabe 1741 mit Frau Rieder besprechen.
 2. Programmier Projekt informieren mit der Gruppe.

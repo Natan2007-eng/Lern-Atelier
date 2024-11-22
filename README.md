@@ -1,10 +1,13 @@
 # Lernatelier
 # Ziele 22.11.2023
-1. Mit meiner Gruppe das Programm starten.
+1. Mit meiner Gruppe am Programm arbeiten.
 2. Modul 162 6955 nachholen.
 3. Wenn die Zeit noch längt fange ich noc mit dem Portfolio an.
 
       Reflexion
+1. Wir konnten das Programm verbessern.
+2. Habe es nachgeholt aber noch nicht so ganz verstanden.
+3. Hatte keine Zeit das Portfolio zu starten.
 
 # Lernatelier
 # Ziele 15.11.2024

@@ -1,4 +1,12 @@
 # Lernatelier
+# Ziele 22.11.2023
+1. Mit meiner Gruppe das Programm starten.
+2. Modul 162 6955 nachholen.
+3. Wenn die Zeit noch längt fange ich noc mit dem Portfolio an.
+
+      Reflexion
+
+# Lernatelier
 # Ziele 15.11.2024
 1. Pap für unser Projekt machen.
 2. Modul 162 6953 machen.

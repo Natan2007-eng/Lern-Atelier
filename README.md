@@ -1,4 +1,12 @@
 # Lernatelier
+# Ziele 29.11.2024
+1. Programm ferig stellen.
+2. Für das Programmierprojekt den Vortrag vorbereiten.
+3. Modul 162 einen Auftrag noch fertig stellen 6961.
+
+    Reflexion
+
+# Lernatelier
 # Ziele 22.11.2023
 1. Mit meiner Gruppe am Programm arbeiten.
 2. Modul 162 6955 nachholen.

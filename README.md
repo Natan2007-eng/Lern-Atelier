@@ -5,6 +5,9 @@
 3. Modul 162 einen Auftrag noch fertig stellen 6961.
 
     Reflexion
+1. Haben es fertig.
+2. Haben es vorbereitet.
+3. Habe es fertig gemacht.
 
 # Lernatelier
 # Ziele 22.11.2023

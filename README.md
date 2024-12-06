@@ -5,9 +5,9 @@
 3. Ein ausgewähltes Programmierprojekt beginnen.
 
     Reflexion
-1.
-2.
-3.
+1. Habe mir das anfeschaut und habe es eigentlich verstanden.
+2. Habe das Portfolio fast fertig.
+3. Habe ein Thema gefunden und habe begonnen mich zu informieren. 
 
 # Lernatelier
 # Ziele 29.11.2024

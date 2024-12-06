@@ -1,15 +1,15 @@
 # Lernatelier
 # Ziele 06.12.2024
 1. Modul 162 repetieren ,fragen klären die ich nicht verstehe.
-2. Nach mögliche Programmierprojekte suchen ,mich besser Informieren.
-3. Mein ausgewähltes Programmierprojekt beginnen.
+2. Portfolio für das Modul 162 machen
+3. Ein ausgewähltes Programmierprojekt beginnen.
 
     Reflexion
 1.
 2.
 3.
 
-#Lernatelier
+# Lernatelier
 # Ziele 29.11.2024
 1. Programm ferig stellen.
 2. Für das Programmierprojekt den Vortrag vorbereiten.

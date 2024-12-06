@@ -15,7 +15,7 @@
 2. Für das Programmierprojekt den Vortrag vorbereiten.
 3. Modul 162 einen Auftrag noch fertig stellen 6961.
 
-    Reflexion
+    # Reflexion
 1. Haben es fertig.
 2. Haben es vorbereitet.
 3. Habe es fertig gemacht.
@@ -26,7 +26,7 @@
 2. Modul 162 6955 nachholen.
 3. Wenn die Zeit noch längt fange ich noc mit dem Portfolio an.
 
-      Reflexion
+      # Reflexion
 1. Wir konnten das Programm verbessern.
 2. Habe es nachgeholt aber noch nicht so ganz verstanden.
 3. Hatte keine Zeit das Portfolio zu starten.
@@ -37,7 +37,7 @@
 2. Modul 162 6953 machen.
 3. Modul 162 6943 machen.
 
-      Reflexion
+     # Reflexion
 1. Pap fertig gemacht.
 2. Fertig gemacht
 3. Fertig gemacht
@@ -47,7 +47,7 @@
 1. Modul 162 die aufgabe 1741 mit Frau Rieder besprechen.
 2. Programmier Projekt informieren mit der Gruppe.
 3. Programmierübungen von chatgpt machen.
-   Reflexion
+ #  Reflexion
 
 1. Habe ich gemacht und verstehe es auch jz.
 2. Haben uns informiert.
@@ -61,7 +61,7 @@
 
 3.Offene Fragen klären.
 
-   Reflexion
+  # Reflexion
 
 1. 319 gelernt ,aber nicht so effizient, muss disziplinierter werden.
 2. Habe nichts gemacht.
@@ -74,7 +74,7 @@
 2. fragen stellen zum 319
 3. Modul 319 besser verstanden haben
 
-   Reflexion
+  # Reflexion
 1. Habe geübt und bin gut voran gekommen.
 2. Hatte nicht so viele Fragen heute.
 3. Bin weiter gekommen und verstehe es besser.
@@ -85,7 +85,7 @@
 2. Programmieren üben.
 3. Offene fragen zum programmieren klären.
 
-   Reflexion
+   # Reflexion
 
    1.Habe alles in Github in Ordnung gebracht und hoffe es ist jetzt.
 
@@ -99,7 +99,7 @@
    2. Modul 431 2726 fertig machen
    3. Offene Fragen kläre
 
-  Reflexion
+#  Reflexion
   
    1. Ich habe es besser verstanden als vorher.
    2. Habe es fertig gemacht.
@@ -111,7 +111,7 @@
 1. Modul 431 1724 machen
 2. Notenrechner verstehen
 3. Offene Fragen klären
-   Reflexion
+  # Reflexion
    
 1. Nicht ganz muss konzentrieren
 2. Habe es verstanden
@@ -127,7 +127,7 @@
 
 3.Offene Fragen kären
 
-Reflexion
+# Reflexion
 
 1.Modul fertig gemacht 
 
@@ -144,7 +144,7 @@ Reflexion
 
 3.Offene Fragen klären.
 
-Reflexion
+# Reflexion
 
 1.Ich habe es besser verstanden als vorher
 
@@ -159,7 +159,7 @@ Reflexion
 2. Ich nöchte die Pup Uhr verstehen.
 3. Ich möchte im Modul 431 bis zum 1705 kommen.
 
-Reflexion
+# Reflexion
 
 1.Ich habe es eingerichtet.
 
@@ -173,7 +173,7 @@ Reflexion
 2. Ich nöchte die Pup Uhr verstehen.
 3. Ich möchte im Modul 431 bis zum 1705 kommen.
 
-Reflexion
+# Reflexion
 
 1.Ich habe es eingerichtet.
 

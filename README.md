@@ -4,7 +4,7 @@
 2. Portfolio für das Modul 162 machen
 3. Ein ausgewähltes Programmierprojekt beginnen.
 
-    Reflexion
+    # Reflexion
 1. Habe mir das anfeschaut und habe es eigentlich verstanden.
 2. Habe das Portfolio fast fertig.
 3. Habe ein Thema gefunden und habe begonnen mich zu informieren. 

@@ -2,7 +2,7 @@
 # Ziele 06.12.2024
 1. Modul 162 repetieren ,fragen klären die ich nicht verstehe.
 2. Portfolio für das Modul 162 machen
-3. Ein ausgewähltes Programmierprojekt beginnen.
+3. Ein ausgewähltes Programmierprojekt beginnen. Unswar etwas wo die top torschützen aufzählt und immer wieder einen update macht.
 
     # Reflexion
 1. Habe mir das anfeschaut und habe es eigentlich verstanden.

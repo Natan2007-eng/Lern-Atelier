@@ -1,4 +1,14 @@
 # Lernatelier
+# Ziele 13.12.2024
+1. Ich werde zuerst eine Dokumentation meines Projektes schreiben.
+2. Ich plane mein Projekt für die nächsten Wochen.
+3. Nachdem ich alles gemacht habe will anfangen das zu starten.
+
+# Reflexion
+
+
+
+# LernatelierAAaA
 # Ziele 06.12.2024
 1. Modul 162 repetieren ,fragen klären die ich nicht verstehe.
 2. Portfolio für das Modul 162 machen

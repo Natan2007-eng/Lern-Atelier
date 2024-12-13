@@ -5,6 +5,9 @@
 3. Nachdem ich alles gemacht habe will anfangen das zu starten.
 
 # Reflexion
+1. Habe die Dokumentation geschrieben.
+2. Habe es teilweise geplant.
+3. Fange erst nächstet mal an.
 
 
 

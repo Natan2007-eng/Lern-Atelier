@@ -5,9 +5,10 @@
 3. Mein Programmierprojekt weiter arbeiten.
 
   # Reflexion
-1.
-2.
-3.
+1. Habe es fertig gemacht.
+2. Habe auch dies fertig gemacht.
+3. Habe Informationen noch gesammelt da ich es letze mal nicht fertig gemcht.
+
 # Lernatelier
 # Ziele 13.12.2024
 1. Ich werde zuerst eine Dokumentation meines Projektes schreiben.

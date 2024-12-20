@@ -1,8 +1,8 @@
 # Lernatelier
 # Ziele 20.12.2024
-1.
-2.
-3.
+1. Modul 117 Aufgabe 1708.
+2. Modul 164 Aufgabe 7703 und 7704.
+3. Mein Programmierprojekt weiter arbeiten.
 
   # Reflexion
 1.

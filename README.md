@@ -1,4 +1,14 @@
 # Lernatelier
+# Ziele 20.12.2024
+1.
+2.
+3.
+
+  # Reflexion
+1.
+2.
+3.
+# Lernatelier
 # Ziele 13.12.2024
 1. Ich werde zuerst eine Dokumentation meines Projektes schreiben.
 2. Ich plane mein Projekt für die nächsten Wochen.

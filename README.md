@@ -1,4 +1,12 @@
 # Lernatelier
+# Ziele 10.01.2025
+1. 164 7709 fertig machen.
+2. 164 7710 fertig machen.
+3. An meinem Prijekt weiter arbeiten.
+
+      # Reflexion
+1.
+# Lernatelier
 # Ziele 20.12.2024
 1. Modul 117 Aufgabe 1708.
 2. Modul 164 Aufgabe 7703 und 7704.

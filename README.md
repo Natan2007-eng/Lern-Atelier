@@ -2,10 +2,12 @@
 # Ziele 10.01.2025
 1. 164 7709 fertig machen.
 2. 164 7710 fertig machen.
-3. An meinem Prijekt weiter arbeiten.
+3. An meinem Prjoekt weiter arbeiten.
 
       # Reflexion
-1.
+1.ferig.
+2.fertig.
+3. Nicht so weit gekommen.
 # Lernatelier
 # Ziele 20.12.2024
 1. Modul 117 Aufgabe 1708.
